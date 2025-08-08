@@ -1,5 +1,6 @@
 # Railway-Database-Management-System-project-using-SQL
 1) Contents
+   
 Introduction
 Project Description
 Objectives of Railway Management
@@ -9,17 +10,20 @@ Create and Insert SQL Queries
 Conclusion
 
 2)Introduction
+
 The Indian Railways is one of the world's major railway networks, moving millions of passengers daily. 
 An efficient database management system is crucial for managing a large transportation system. 
 This system consists of a database, database engine, and database schema to ensure concurrency, security, data integrity, and consistent administration methods. 
 Automating the procedure eliminates loopholes in manual record-keeping and increases data processing speed. The web-enabled system allows consumers to inquire about trains between stations, reducing disputes and issues with railway reservation systems.
 
 3)Project Description
+
 The project involves developing a database with necessary information about the railway reservation system. 
  It helps in facilitating the passengers to know about the train schedules and details about passenger seat number, coach number etc.
 This project aims to create a database with information about trains, stations, and passengers, which could eventually be used to answer passenger queries. 
 
 4)Assumptions
+
 The number of trains selected is restricted to 5 only
 All the trains start from Delhi only
 The dates of the journey are only 3 days in March
@@ -27,6 +31,7 @@ The in-between stations are not considered
 Ticket cancellation is not taken into consideration
 
 5)Objectives of Railway Management System
+
 Create a database containing station, train, passenger, and ticket information. This helps with compliance and audits.
 Providing real-time access to train timings and coach numbers improves railway efficiency and accuracy.  
 Getting information about the passengers and trains they have booked. 
@@ -34,6 +39,7 @@ Getting information about the trains available between the time of interest of p
 Getting information about the number of passengers travelling from a particular train.
 
 6)Conclusion
+
 Our project aims to organize the railway database system to benefit both passengers and the Railway department.
 The project enables passengers to easily find available trains for travel within a specified time range.
 The system maintains records of the number of passengers travelling on respective trains,along with the details of the seats and coaches allotted to them.
