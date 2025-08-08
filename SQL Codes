@@ -1,0 +1,34 @@
+Code 1 –
+
+select trains5.Train_Name, Train_Arrival 
+from Trains5
+inner join schedule5
+on Trains5.Train_Number=Schedule5.Train_Number where Schedule5.Train_Arrival > '6:00' and Schedule5.Train_Arrival < '9:00'
+
+Code 2 –
+
+select Trains5.Train_Name, Tickets5.Name,Tickets5.PNR
+from Trains5 inner join Tickets5
+on Trains5.Train_Number=Tickets5.Train_Number
+
+Code 3 –
+select Trains5.Train_Name, Tickets5.Name, Tickets5.PNR
+from Trains5 inner join Tickets5
+on Trains5.Train_Number=Tickets5.Train_Number where Trains5.Train_Name='Madgaon Rajdhani Express'
+
+Code 4 –
+
+select Train_Name,Train_Number 
+from Trains5
+where No_Of_Coaches between 17 and 21
+
+Code 5 –
+
+select count(Gender) as Male_passengers
+from Passengers5 where Gender = 'Male'
+
+Code 6 –
+
+select Name,Seat_Number,Coach_type 
+from Tickets5 where From_Station ='New Delhi'
+
