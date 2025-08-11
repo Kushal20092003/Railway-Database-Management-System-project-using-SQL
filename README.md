@@ -58,7 +58,7 @@ This project aims to create a database with information about trains, stations, 
 ## Queries
 
 queries can be found in the following doc.
-[Queries.docx](#Queries.docx)
+[Queries.docx](Queries.docx)
    
 ## Conclusion
 
