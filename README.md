@@ -28,22 +28,16 @@ The web-enabled system allows consumers to inquire about trains between stations
 ## Project Description
 
 The project involves developing a database with necessary information about the railway reservation system. 
-
- It helps in facilitating the passengers to know about the train schedules and details about passenger seat number, coach number etc.
- 
+It helps in facilitating the passengers to know about the train schedules and details about passenger seat number, coach number etc.
 This project aims to create a database with information about trains, stations, and passengers, which could eventually be used to answer passenger queries. 
 
 ## Assumptions
 
-The number of trains selected is restricted to 5 only
-
-All the trains start from Delhi only
-
-The dates of the journey are only 3 days in March
-
-The in-between stations are not considered
-
-Ticket cancellation is not taken into consideration
+- The number of trains selected is restricted to 5 only
+- All the trains start from Delhi only
+- The dates of the journey are only 3 days in March
+- The in-between stations are not considered
+- Ticket cancellation is not taken into consideration
 
 ## Objectives of Railway Management
 
