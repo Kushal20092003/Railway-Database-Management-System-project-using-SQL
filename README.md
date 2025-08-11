@@ -5,17 +5,17 @@
 
 [Project Description](#project-description)
 
-[Assumptions](#Assumptions)
+[Assumptions](#assumptions)
 
-[Objectives of Railway Management](#Objectives-of-Railway-Management)
+[Objectives of Railway Management](#objectives-of-railway-management)
 
-[ER Diagram](#ER-Diagram)
+[ER Diagram](#er-diagram)
 
-[Schema](#Schema)
+[Schema](#schema)
 
-[Create and Insert SQL Queries](#Create-and-Insert-SQL-Queries)
+[Create and Insert SQL Queries](#create-and-insert-SQL-queries)
 
-[Conclusion](#Conclusion)
+[Conclusion](#conclusion)
 
 ## Introduction
 
