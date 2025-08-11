@@ -1,7 +1,7 @@
 # Railway-Database-Management-System-project-using-SQL
 ## Contents
    
-[Introduction]{#Introduction}
+[Introduction](#introduction)
 
 Project Description
 
