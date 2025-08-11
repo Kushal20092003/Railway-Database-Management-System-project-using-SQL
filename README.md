@@ -5,15 +5,17 @@
 
 [Project Description](#project-description)
 
-Objectives of Railway Management
+[Assumptions](#Assumptions)
 
-ER Diagram
+[Objectives of Railway Management](#Objectives-of-Railway-Management)
 
-Schema
+[ER Diagram](#ER-Diagram)
 
-Create and Insert SQL Queries
+[Schema](#Schema)
 
-Conclusion
+[Create and Insert SQL Queries](#Create-and-Insert-SQL-Queries)
+
+[Conclusion](#Conclusion)
 
 ## Introduction
 
@@ -31,7 +33,7 @@ The project involves developing a database with necessary information about the 
  
 This project aims to create a database with information about trains, stations, and passengers, which could eventually be used to answer passenger queries. 
 
-4) Assumptions
+## Assumptions
 
 The number of trains selected is restricted to 5 only
 
@@ -43,7 +45,7 @@ The in-between stations are not considered
 
 Ticket cancellation is not taken into consideration
 
-5) Objectives of Railway Management System
+## Objectives of Railway Management System
 
 Create a database containing station, train, passenger, and ticket information. This helps with compliance and audits.
 
@@ -55,15 +57,15 @@ Getting information about the trains available between the time of interest of p
 
 Getting information about the number of passengers travelling from a particular train.
 
-6) <img width="1214" height="682" alt="image" src="https://github.com/user-attachments/assets/4ada0eb8-0ac6-4bf4-b4a4-afa6a8f911db" />
+## <img width="1214" height="682" alt="image" src="https://github.com/user-attachments/assets/4ada0eb8-0ac6-4bf4-b4a4-afa6a8f911db" />
 
-7) Schema
+## Schema
    
    <img width="1217" height="685" alt="image" src="https://github.com/user-attachments/assets/85086154-3724-4171-9e7c-c426c47fb77d" />
 
-8) Queries
+## Queries
    
-9) Conclusion
+## Conclusion
 
 Our project aims to organize the railway database system to benefit both passengers and the Railway department.
 The project enables passengers to easily find available trains for travel within a specified time range.
