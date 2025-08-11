@@ -45,7 +45,7 @@ The in-between stations are not considered
 
 Ticket cancellation is not taken into consideration
 
-## Objectives of Railway Management System
+## Objectives of Railway Management
 
 Create a database containing station, train, passenger, and ticket information. This helps with compliance and audits.
 
@@ -57,7 +57,8 @@ Getting information about the trains available between the time of interest of p
 
 Getting information about the number of passengers travelling from a particular train.
 
-## <img width="1214" height="682" alt="image" src="https://github.com/user-attachments/assets/4ada0eb8-0ac6-4bf4-b4a4-afa6a8f911db" />
+## ER Diagram
+<img width="1214" height="682" alt="image" src="https://github.com/user-attachments/assets/4ada0eb8-0ac6-4bf4-b4a4-afa6a8f911db" />
 
 ## Schema
    
