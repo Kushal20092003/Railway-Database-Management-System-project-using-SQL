@@ -13,7 +13,7 @@
 
 [Schema](#schema)
 
-[Create and Insert SQL Queries](#create-and-insert-SQL-queries)
+[Queries](#queries)
 
 [Conclusion](#conclusion)
 
