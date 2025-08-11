@@ -56,6 +56,9 @@ This project aims to create a database with information about trains, stations, 
    <img width="1217" height="685" alt="image" src="https://github.com/user-attachments/assets/85086154-3724-4171-9e7c-c426c47fb77d" />
 
 ## Queries
+
+queries can be found in the following doc.
+[
    
 ## Conclusion
 
