@@ -1,7 +1,7 @@
 # Railway-Database-Management-System-project-using-SQL
-1) Contents
+## Contents
    
-Introduction
+Introduction{#introduction}
 
 Project Description
 
@@ -15,7 +15,7 @@ Create and Insert SQL Queries
 
 Conclusion
 
-2) Introduction
+## Introduction
 
 The Indian Railways is one of the world's major railway networks, moving millions of passengers daily. 
 
