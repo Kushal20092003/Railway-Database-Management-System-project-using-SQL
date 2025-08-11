@@ -3,7 +3,7 @@
    
 [Introduction](#introduction)
 
-Project Description
+[Project Description](#project-description)
 
 Objectives of Railway Management
 
@@ -18,16 +18,12 @@ Conclusion
 ## Introduction
 
 The Indian Railways is one of the world's major railway networks, moving millions of passengers daily. 
-
 An efficient database management system is crucial for managing a large transportation system. 
-
 This system consists of a database, database engine, and database schema to ensure concurrency, security, data integrity, and consistent administration methods. 
-
 Automating the procedure eliminates loopholes in manual record-keeping and increases data processing speed. 
-
 The web-enabled system allows consumers to inquire about trains between stations, reducing disputes and issues with railway reservation systems.
 
-3) Project Description
+## Project Description
 
 The project involves developing a database with necessary information about the railway reservation system. 
 
