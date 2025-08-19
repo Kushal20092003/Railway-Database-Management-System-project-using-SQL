@@ -54,6 +54,20 @@ This project aims to create a database with information about trains, stations, 
 ## Schema
    
    <img width="1217" height="685" alt="image" src="https://github.com/user-attachments/assets/85086154-3724-4171-9e7c-c426c47fb77d" />
+ Trains
+ <img width="653" height="158" alt="train" src="https://github.com/user-attachments/assets/d209daa7-a85c-43e1-af44-55cfde54c557" />
+
+Schedule
+<img width="777" height="152" alt="schedule" src="https://github.com/user-attachments/assets/34658912-1b0d-490f-8150-f504c5a00c3c" />
+
+Station
+<img width="765" height="157" alt="station" src="https://github.com/user-attachments/assets/2aa9cbaa-b724-4203-b52c-f74cb1302dfe" />
+
+Passenger
+<img width="505" height="280" alt="passengers" src="https://github.com/user-attachments/assets/e6dfe3c3-1cb0-42f4-9f79-a6b77f686884" />
+
+Ticket
+<img width="1431" height="273" alt="ticket" src="https://github.com/user-attachments/assets/6ea16230-8399-4009-b3bd-ff1b3e1cb203" />
 
 ## Queries
 
